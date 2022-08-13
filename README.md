@@ -1,246 +1,32 @@
-<!DOCTYPE html>
+<h1 align="center">Hi 👋, I'm yudzofc</h1>
+<h3 align="center">Peraturan adalah peraturan, Ruru wa ruru da</h3>
 
-<html lang="fr">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yudzoff&label=Profile%20views&color=0e75b6&style=flat" alt="yudzoff" /> </p>
 
-  <head>
+- 🔭 I’m currently working on [yudsbotz-md](https://github.com/yudzofc/yudsbotz-md)
 
-    <meta charset="UTF-8" />
+- 🌱 I’m currently learning **Front End, etc**
 
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+- 👯 I’m looking to collaborate on [Website Official OSIS SMAN 96](https://osis96jkt.wahyup094.repl.co/)
 
-    <link rel="preconnect" href="https://fonts.gstatic.com" />
+- 👨‍💻 All of my projects are available at [https://bit.ly/profil_wahyu](https://bit.ly/profil_wahyu)
 
-    <link
+- ❤️ Menjalin hubungan dengan [https://instagram.com/cndwng_?igshid=YmMyMTA2M2Y=](https://instagram.com/cndwng_?igshid=YmMyMTA2M2Y=)
 
-      href="https://fonts.googleapis.com/css2?family=Inter"
+- 📫 How to reach me **wahyudi.my.id@gmail.com**
 
-      rel="stylesheet"
+- 📄 Know about my experiences [https://bit.ly/profil_wahyu](https://bit.ly/profil_wahyu)
 
-    />
+- ⚡ Fun fact **I think i'm stupid 'cause fall in love for you**
 
-    <link rel="stylesheet" href="index.css" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/lebihkerendariandy_warholl.093" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lebihkerendariandy_warholl.093" height="30" width="40" /></a>
+</p>
 
-    <link
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
 
-      rel="icon"
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yudzoff&show_icons=true&locale=en&layout=compact" alt="yudzoff" /></p>
 
-      href="https://cdn.discordapp.com/avatars/847030527822266378/9b4ff7ff9a5c9c5b378bc6b75ada0301.png"
-
-    />
-
-    <title>Yuds</title>
-
-  </head>
-
-  <body>
-
-    <header>
-
-      <div>
-
-        <div id="popout">
-
-          <div class="popout-header"></div>
-
-          <div class="popout-body">
-
-            <div class="avatar">
-
-              <img
-
-                src="https://cdn.discordapp.com/avatars/847030527822266378/9b4ff7ff9a5c9c5b378bc6b75ada0301.png"
-
-                alt="avatar"
-
-              />
-
-              <div class="status"></div>
-
-            </div>
-
-            <h2 class="username">Yuds Punya Cndy</h2>
-
-            <div id="badgeList">
-
-              <div class="badge">
-
-                <a href="https://instagram.com/lebihkerendariandy_warholl.093" target="_blank"
-
-                  ><img src="stuff/social/instagram.svg" alt="instagram"
-
-                /></a>
-
-              </div>
-
-
-
-              <div class="badge">
-
-                <a href="https://github.com/yudzofc" target="_blank"
-
-                  ><img src="stuff/social/github.svg" alt="github"
-
-                /></a>
-
-              </div>
-
-              <div class="badge">
-
-                <a href="https://youtube.com/channel/UC8Ukf0gpRRYmpkF74v9V8Yw" target="_blank"
-
-                  ><img src="stuff/social/YouTube.svg" alt="youtube"
-
-                /></a>
-
-              </div>
-
-            </div>
-
-            <h4 class="about-me">I Like Coding.</h4>
-
-            <div class="activity">
-
-              <a href="https://github.com/yudzofc"
-
-                ><img
-
-                  src="https://lanyard-profile-readme.vercel.app/api/847030527822266378?bg=transparentd&borderRadius=8px&hideDiscrim=true"
-
-                  alt="Github profile"
-
-              /></a>
-
-            </div>
-
-            <div class="roles">
-
-              <h4>Roles</h4>
-
-              <div id="roleList">
-
-                <div
-
-                  class="role"
-
-                  style="
-
-                    border-color: #1abc9c;
-
-                    background-color: rgba(26, 188, 156, 0.3);
-
-                  "
-
-                >
-
-                  <img src="stuff/roles/designer.svg" alt="designer" />
-
-                  developer
-
-                </div>
-
-                <div
-
-                  class="role"
-
-                  style="
-
-                    border-color: #f97575;
-
-                    background-color: rgba(249, 117, 117, 0.3);
-
-                  "
-
-                >
-
-                  <img src="stuff/roles/ayaya.png" alt="AYAYA" />
-
-                  weeb
-
-                </div>
-
-                <div
-
-                  class="role"
-
-                  style="
-
-                    border-color: #ff475f;
-
-                    background-color: rgba(255, 71, 71, 0.3);
-
-                  "
-
-                >
-
-                  <img src="stuff/roles/peepopopcorn.gif" alt="peepopopcorn" />
-
-                  Youtube frog
-
-                </div>
-
-                <div
-
-                  class="role"
-
-                  style="
-
-                    border-color: #f9a575;
-
-                    background-color: rgba(249, 165, 117, 0.3);
-
-                  "
-
-                >
-
-                  <img src="stuff/roles/gaming.gif" alt="gaming" />
-
-                  Gamer sometimes
-
-                </div>
-
-              </div>
-
-            </div>
-
-          </div>
-
-          <div class="popout-footer">
-
-            <label>
-
-              <input type="text" placeholder="Message @Yuds" />
-
-            </label>
-
-          </div>
-
-        </div>
-
-      </div>
-
-    </header>
-
-
-
-    <!-- <main>
-      <div class="projects-header">
-        <div>
-          <h4>My Projects</h4>
-        </div>
-      </div>
-
-      <div class="projects">
-        <div class="project">
-          <a href="__redirect_link__" target="_blank"
-            ><img
-              src="__image_link__"
-          /></a>
-          <h2>__name__</h2>
-        </div>
-      </div>
-    </main> -->
-
-  </body>
-
-</html>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yudzoff&show_icons=true&locale=en" alt="yudzoff" /></p>
