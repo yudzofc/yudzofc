@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://bit.ly/profil_wahyu](https://bit.ly/profil_wahyu)
 
-- ❤️ Menjalin hubungan dengan [https://instagram.com/cndwng_?igshid=YmMyMTA2M2Y=](https://instagram.com/cndwng_?igshid=YmMyMTA2M2Y=)
+- ❤️ Menjalin hubungan dengan [https://instagram.com/cndwng_?igshid=YmMyMTA2M2Y=](CNDY🐥)
 
 - 📫 How to reach me **wahyudi.my.id@gmail.com**
 
